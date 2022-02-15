@@ -1,0 +1,19 @@
+* {
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}
+.container {
+  margin: 20px auto 0 auto;
+  text-align: center;
+  max-width: 1000px;
+  background-color: wheat;
+  padding: 10px;
+  border-radius: 20px;
+}
+.items {
+  background-color: beige;
+  border-radius: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
